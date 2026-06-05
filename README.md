@@ -78,7 +78,7 @@ Daftar pustaka yang digunakan dalam berkas `pubspec.yaml`:
 * **Java Development Kit (JDK 11 atau JDK 17 ARM64)** -> *Wajib untuk mendukung Gradle compile task terbaru pada macOS Apple Silicon*.
 
 ### Langkah Instalasi
-1. Clone repositori ini ke komputer lokal lu:
+1. Clone repositori ini ke komputer lokal:
    ```bash
    git clone [https://github.com/giovanialfareza/insight-app.git](https://github.com/giovanialfareza/insight-app.git)
    cd insight-app
