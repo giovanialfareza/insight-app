@@ -18,8 +18,6 @@ Di bawah ini adalah representasi visual dari antarmuka aplikasi Insight App vers
 | :---: | :---: | :---: | :---: |
 | ![Login Screen](screenshots/login_view.png) | ![Dashboard Screen](screenshots/dashboard_view.png) | ![Wizard Step](screenshots/wizard_view.png) | ![Pipeline Monitoring](screenshots/pipeline_view.png) |
 
-*(💡 **Tips Git:** Simpan file screenshot hasil penangkapan layar emulator lu di dalam folder bernama `screenshots/` di direktori proyek, lalu pastikan nama filenya sesuai dengan jalur di atas agar gambar otomatis muncul di GitHub).*
-
 ---
 
 ## 🚀 Fitur Utama Platform
