@@ -10,7 +10,7 @@ Proyek ini disusun untuk memenuhi tugas praktikum mata kuliah **Pemrograman Mobi
 
 ---
 
-## 📸 Screenshots & Antarmuka Aplikasi
+## Screenshots & Antarmuka Aplikasi
 
 Di bawah ini adalah representasi visual dari antarmuka aplikasi Insight App versi Flutter:
 
@@ -20,7 +20,7 @@ Di bawah ini adalah representasi visual dari antarmuka aplikasi Insight App vers
 
 ---
 
-## 🚀 Fitur Utama Platform
+## Fitur Utama Platform
 
 1. **Multi-Tab Dashboard Overview**: 
    * **Overview Metrics**: Memantau skor kualitas data rata-rata (*Average Quality Score*) dan total aset data secara dinamis.
@@ -41,7 +41,7 @@ Di bawah ini adalah representasi visual dari antarmuka aplikasi Insight App vers
 
 ---
 
-## 🛠️ Implementasi Konsep Pemrograman Mobile (Android)
+## Implementasi Konsep Pemrograman Mobile (Android)
 
 Aplikasi ini mengimplementasikan poin-poin fundamental modul praktikum mobile secara ketat:
 
@@ -57,7 +57,7 @@ Aplikasi ini mengimplementasikan poin-poin fundamental modul praktikum mobile se
 
 ---
 
-## 📦 Dependensi & Library Utama
+## Dependensi & Library Utama
 
 Daftar pustaka yang digunakan dalam berkas `pubspec.yaml`:
 * `provider` - State management arsitektur MVVM.
@@ -70,7 +70,7 @@ Daftar pustaka yang digunakan dalam berkas `pubspec.yaml`:
 
 ---
 
-## 🏁 Cara Menjalankan Aplikasi di Lokal
+## Cara Menjalankan Aplikasi di Lokal
 
 ### Prasyarat Sistem
 * Flutter SDK (Min. versi 3.x)
